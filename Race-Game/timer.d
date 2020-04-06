@@ -1,0 +1,10 @@
+.\timer.o: timer.c
+.\timer.o: timer.h
+.\timer.o: ..\..//tm4c123gh6pm.h
+.\timer.o: game.h
+.\timer.o: var.h
+.\timer.o: Nokia5110.h
+.\timer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\timer.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+.\timer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\timer.o: timer.h
